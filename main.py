@@ -1,4 +1,4 @@
 def main():
-  print("hello world");
+  print("different message");
 
 main()
