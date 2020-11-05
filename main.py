@@ -1,4 +1,4 @@
 def main():
-  print("one more check");
+  print("foo");
 
 main()
